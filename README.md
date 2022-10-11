@@ -18,7 +18,7 @@ Run: sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zs
 
 ### Step 5: Install fonts
 
-_Download & Install_: https://github.com/vigneshshiv/iTerm2/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
+_Download & Install_: https://github.com/vigneshshiv/iTerm2/blob/main/SourceCodePro%2BPowerline%2BAwesome%2BRegular.ttf
 
 ### Step 6: Install Theme
 
@@ -28,7 +28,7 @@ Set theme on .zshrc: ZSH_THEME="powerlevel10k/powerlevel10k"
 
 ### Step 7: Install custom iTerm2 colors
 
-Copy: https://raw.githubusercontent.com/vigneshshiv/iTerm2/vigneshshiv.itermcolors
+Copy: https://github.com/vigneshshiv/iTerm2/blob/main/vigneshshiv.itermcolors
 
 Paste contents in a new file somewhere and name it _filename.itermcolors_
 
@@ -38,7 +38,7 @@ Create new profile, make it default, delete default profile
 
 Set colors to newly created itermcolors files
 
-Set font to SourceCode+PowerLine+AwesomeRegular
+Set font to SourceCode+PowerLine+Awesome+Regular
 
 ### Step 9: Configure Power Level 10K
 
@@ -52,7 +52,7 @@ Add plugin to .zshrc file: plugins=(zsh-autosuggestions)
 
 ### Step 11: Configure VS Code
 
-Update terminal.integrated.fontFamily setting to 'SourceCodePro+PowerLine+AwesomeRegular'
+Update terminal.integrated.fontFamily setting to 'SourceCodePro+PowerLine+Awesome+Regular'
 
 ### Step 12: Enable quake-style terminal
 
